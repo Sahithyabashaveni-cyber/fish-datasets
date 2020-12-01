@@ -26,21 +26,21 @@ Keywords to find these datasets: fish, trout
 
 ## List of datasets found
 
-- 2020-08-25 https://www.kaggle.com/ssfailearning/futurefish (351MB) ✔️
-- 2020-08-25 https://www.kaggle.com/jasmeetkaur/fishdataset (3.0GB) ✔️
-- 2020-08-25 https://www.kaggle.com/tomeryacov/fishfish (302MB) ✔️
-- 2020-08-25 https://www.kaggle.com/linykc/fish-images-dataset (297KB) ❌
-- 2020-08-25 https://www.kaggle.com/khaledelsayedibrahim/fishclassifyfinal (605MB) ✔️
-- 2020-08-25 https://www.kaggle.com/jasmeetkaur/fishdatasetcleaned (1.1GB) ✔️
-- 2020-08-25 https://www.kaggle.com/cmkmoorthy/aquariumfished (189MB) ✔️
-- 2020-08-25 https://www.kaggle.com/amitneeman/fish-2 (309MB) ✔️
-- 2020-08-25 https://www.kaggle.com/khaledelsayedibrahim/fishclassifierfinal (553MB) ✔️
-- 2020-08-25 https://swfscdata.nmfs.noaa.gov/labeled-fishes-in-the-wild/ (433MB) ✔️
-- 2020-08-25 https://data.mendeley.com/datasets/n3ydw29sbz/3 (3.2GB) ✔️
-- 2020-08-25 https://apps.aims.gov.au/metadata/view/38c829d4-6b6d-44a1-9476-f9b0955ce0b8 () ✔️
-- 2020-08-25 https://www.fishbase.de/photos/ThumbnailsSummary.php?Genus=Oncorhynchus&Species=mykiss (34MB) ✔️
-- 2020-08-25 https://github.com/cocodataset/cocoapi (API Connection) ✔️
+- 2020-08-25 FISH0014 https://www.kaggle.com/ssfailearning/futurefish (351MB) ✔️
+- 2020-08-25 FISH0013 https://www.kaggle.com/jasmeetkaur/fishdataset (3.0GB) ✔️
+- 2020-08-25 FISH0012 https://www.kaggle.com/tomeryacov/fishfish (302MB) ✔️
+- 2020-08-25 FISH0011 https://www.kaggle.com/linykc/fish-images-dataset (297KB) ❌
+- 2020-08-25 FISH0010 https://www.kaggle.com/khaledelsayedibrahim/fishclassifyfinal (605MB) ✔️
+- 2020-08-25 FISH0009 https://www.kaggle.com/jasmeetkaur/fishdatasetcleaned (1.1GB) ✔️
+- 2020-08-25 FISH0008 https://www.kaggle.com/cmkmoorthy/aquariumfished (189MB) ✔️
+- 2020-08-25 FISH0007 https://www.kaggle.com/amitneeman/fish-2 (309MB) ✔️
+- 2020-08-25 FISH0006 https://www.kaggle.com/khaledelsayedibrahim/fishclassifierfinal (553MB) ✔️
+- 2020-08-25 FISH0005 https://swfscdata.nmfs.noaa.gov/labeled-fishes-in-the-wild/ (433MB) ✔️
+- 2020-08-25 FISH0004 https://data.mendeley.com/datasets/n3ydw29sbz/3 (3.2GB) ✔️
+- 2020-08-25 FISH0003 https://apps.aims.gov.au/metadata/view/38c829d4-6b6d-44a1-9476-f9b0955ce0b8 () ✔️
+- 2020-08-25 FISH0002 https://www.fishbase.de/photos/ThumbnailsSummary.php?Genus=Oncorhynchus&Species=mykiss (34MB) ✔️
+- 2020-08-25 FISH0001 https://github.com/cocodataset/cocoapi (API Connection) ✔️
 
 ### Dataset prepared for our investigation
 
-- 2020-08-26 https://bit.ly/34BvYeM ✔️
+- 2020-08-26 FISH9999 https://bit.ly/34BvYeM ✔️
