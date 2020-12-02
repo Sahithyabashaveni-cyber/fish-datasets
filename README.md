@@ -1,5 +1,7 @@
 # Fish segmentation [Not released]
 
+Datasets of fish for deep learning. PR if you want to add one.
+
 
 # Datasets 
 
