@@ -2,10 +2,36 @@
 
 Datasets of fish for deep learning. PR if you want to add one.
 
-
 # Datasets 
 
 - All datasets available on: https://bit.ly/34xV7al Link to Google Drive ✔️
+
+## Datasets Standardized
+
+Thanks to Roboflow, we can export for different formats: 
+
+- Powered by Roboflow (All images resized to 416x416): **JSON** (`COCO`, `CreateML`), **XML** (`Pascal VOC`), **TXT** (`YOLO Darknet`, `YOLO v3 Keras`, `YOLO v4 PyTorch`, `YOLO v5 PyTorch`), **CSV** (`Tensorflow Object Detection`, `RetinaNet Keras`, `Multiclass Classification`), **Others** (`Tensorflow TFRecord`).
+
+- Powered by CVAT (All images original size): **JSON** (`COCO`, `Datumaro`), **XML** (`CVAT Image`, `CVAT Video`, `LabelMe`, `PASCAL VOC`), **TXT** (`MOT`, `YOLO`), **JPG,PNG** (`ImageNet`, `Segmentation Mask`), **Others** (`Tensorflow TFRecord`).
+
+`Choose just one zip file for one model, select the zip file accord to your model.`
+
+| Date       | Images     |  Classes | Download dataset & Code (TR70/VL20/TS10) |
+| ---------- | ---------- | -------- | -------------------------------------    |
+| 2020-12-11 | 723 (301)  | 1        | [FISH9002](https://bit.ly/34BvYeM) ✔️     |
+| 2020-10-18 | 301        | 1        | [FISH9001](https://bit.ly/34BvYeM) ✔️     |
+
+### Downloading and using dataset
+
+Example code to use only with Roboflow [notebooks](https://models.roboflow.com/object-detection) to use the repo and locate correctly.
+
+
+```
+# Instead of doing:
+!curl -L "ROBOFLOW LINK" > roboflow.zip; unzip roboflow.zip; rm roboflow.zip
+# Use:
+!gdown --id "ID OF THE GOOGLE DRIVE ZIP" > roboflow.zip; unzip roboflow.zip; rm roboflow.zip
+```
 
 ## Resources [Update 2020-08-05]
 
@@ -26,7 +52,7 @@ Keywords to find these datasets: fish, trout
 - 2020-08-25 [FishBase](https://www.fishbase.de/) 1
 - 2020-08-26 [CoCo Dataset](https://cocodataset.org/) 1
 
-## List of datasets found
+### List of datasets found
 
 - 2020-08-25 FISH0014 https://www.kaggle.com/ssfailearning/futurefish (351MB) ✔️
 - 2020-08-25 FISH0013 https://www.kaggle.com/jasmeetkaur/fishdataset (3.0GB) ✔️
@@ -42,7 +68,3 @@ Keywords to find these datasets: fish, trout
 - 2020-08-25 FISH0003 https://apps.aims.gov.au/metadata/view/38c829d4-6b6d-44a1-9476-f9b0955ce0b8 () ✔️
 - 2020-08-25 FISH0002 https://www.fishbase.de/photos/ThumbnailsSummary.php?Genus=Oncorhynchus&Species=mykiss (34MB) ✔️
 - 2020-08-25 FISH0001 https://github.com/cocodataset/cocoapi (API Connection) ✔️
-
-### Dataset prepared for our investigation
-
-- 2020-08-26 FISH9999 https://bit.ly/34BvYeM ✔️
