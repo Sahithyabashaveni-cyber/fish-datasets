@@ -1,6 +1,12 @@
 # Fish Segmentation, Fish labelled, Fish Dataset
 
-Datasets of fish for deep learning. PR if you want to add one.
+Datasets of fish for deep learning. Do a pull request if you want to add one or create an issue.
+
+## Models trained by the datasets
+
+- YOLOv3: https://github.com/DZPeru/fishv3
+- YOLOv4: https://github.com/DZPeru/fishv4
+- YOLOv5: Coming soon...
 
 # Datasets 
 
