@@ -4,9 +4,9 @@ Datasets of fish for deep learning. Do a pull request if you want to add one or 
 
 ## Models trained by the datasets
 
-- YOLOv3: https://github.com/DZPeru/fishv3
-- YOLOv4: https://github.com/DZPeru/fishv4
-- YOLOv5: Coming soon...
+- YOLOv3: FISH9002 https://github.com/DZPeru/fishv3
+- YOLOv4: FISH9002 https://github.com/DZPeru/fishv4
+- YOLOv5: FISH9003 Coming soon...
 
 # Datasets 
 
