@@ -1,4 +1,4 @@
-# Fish Segmentation, Fish labelled, Fish Dataset
+# Fish Datasets: Segmentations & labelling
 
 Datasets of fish for deep learning. Do a pull request if you want to add one or create an issue.
 
