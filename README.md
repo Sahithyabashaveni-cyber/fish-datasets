@@ -16,9 +16,9 @@ Datasets of fish for deep learning. Do a pull request if you want to add one or 
 
 Thanks to Roboflow, we can export for different formats: 
 
-- Powered by Roboflow (All images resized to 416x416): **JSON** (`COCO`, `CreateML`), **XML** (`Pascal VOC`), **TXT** (`YOLO Darknet`, `YOLO v3 Keras`, `YOLO v4 PyTorch`, `YOLO v5 PyTorch`), **CSV** (`Tensorflow Object Detection`, `RetinaNet Keras`, `Multiclass Classification`), **Others** (`Tensorflow TFRecord`).
+- Powered by [Roboflow](https://roboflow.com) (All images resized to 416x416): **JSON** (`COCO`, `CreateML`), **XML** (`Pascal VOC`), **TXT** (`YOLO Darknet`, `YOLO v3 Keras`, `YOLO v4 PyTorch`, `YOLO v5 PyTorch`), **CSV** (`Tensorflow Object Detection`, `RetinaNet Keras`, `Multiclass Classification`), **Others** (`Tensorflow TFRecord`).
 
-- Powered by CVAT (All images original size): **JSON** (`COCO`, `Datumaro`), **XML** (`CVAT Image`, `CVAT Video`, `LabelMe`, `PASCAL VOC`), **TXT** (`MOT`, `YOLO`), **JPG,PNG** (`ImageNet`, `Segmentation Mask`), **Others** (`Tensorflow TFRecord`).
+- Powered by [CVAT](https://cvat.org/) (All images original size): **JSON** (`COCO`, `Datumaro`), **XML** (`CVAT Image`, `CVAT Video`, `LabelMe`, `PASCAL VOC`), **TXT** (`MOT`, `YOLO`), **JPG,PNG** (`ImageNet`, `Segmentation Mask`), **Others** (`Tensorflow TFRecord`).
 
 `Choose just one zip file for one model, select the zip file accord to your model.`
 
