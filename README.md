@@ -20,7 +20,7 @@ Thanks to Roboflow, we can export for different formats:
 
 - Powered by [CVAT](https://cvat.org/) (All images original size): **JSON** (`COCO`, `Datumaro`), **XML** (`CVAT Image`, `CVAT Video`, `LabelMe`, `PASCAL VOC`), **TXT** (`MOT`, `YOLO`), **JPG,PNG** (`ImageNet`, `Segmentation Mask`), **Others** (`Tensorflow TFRecord`).
 
-`Choose just one zip file for one model, select the zip file accord to your model.`
+Choose just one zip file for one model, select the zip file accord to your model or download all the exports on [release section](https://github.com/DZPeru/fish-datasets/releases)
 
 | Date       | Images      | Classes | Download dataset & Code (TR70/VL20/TS10) |
 | ---------- | ----------- | ------- | ---------------------------------------- |
