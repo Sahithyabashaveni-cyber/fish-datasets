@@ -1,12 +1,12 @@
 # Fish Datasets: Segmentations & labelling
 
-Datasets of fish for deep learning. Do a pull request if you want to add one or create an issue.
+Datasets of fish for deep learning.
 
-## Models trained by the datasets
+## Models trained by the datasets (weights and demo available)
 
 - YOLOv3: FISH9002 https://github.com/DZPeru/fishv3
 - YOLOv4: FISH9002 https://github.com/DZPeru/fishv4
-- YOLOv5: FISH9003 Coming soon...
+- YOLOv5: FISH9003 https://github.com/DZPeru/fishv5 - Not ready
 
 # Datasets 
 
@@ -22,11 +22,14 @@ Thanks to Roboflow, we can export for different formats:
 
 `Choose just one zip file for one model, select the zip file accord to your model.`
 
-| Date       | Images     |  Classes | Download dataset & Code (TR70/VL20/TS10) |
-| ---------- | ---------- | -------- | -------------------------------------    |
-| 2020-12-15 | +3000      | +1       | [FISH9003 - Coming soon ...](#)          |
-| 2020-12-11 | 723 (301)  | 1        | [FISH9002](https://bit.ly/34BvYeM) ✔️     |
-| 2020-10-18 | 301        | 1        | [FISH9001](https://bit.ly/34BvYeM) ✔️     |
+| Date       | Images      | Classes | Download dataset & Code (TR70/VL20/TS10) |
+| ---------- | ----------- | ------- | ---------------------------------------- |
+| 2020-12-19 | 7500 (2500) | +1      | [FISH9004 - Coming soon ...](#)          |
+| 2020-12-15 | 2400 (1000) | 1       | [FISH9003](https://bit.ly/34BvYeM) ✔️     |
+| 2020-12-11 | 723 (301)   | 1       | [FISH9002](https://bit.ly/34BvYeM) ✔️     |
+| 2020-10-18 | 301 (301)   | 1       | [FISH9001](https://bit.ly/34BvYeM) ✔️     |
+
+* By now just segmented salmon. But the list to complete is [here](./classes/fish_classes-2017-11-07.txt).
 
 ### Downloading and using dataset
 
@@ -62,7 +65,7 @@ Keywords to find these datasets: fish, trout
 
 ### List of datasets found
 
-- 2020-12-15 FISH0015 https://drive.google.com/drive/u/0/folders/1VCEsrkksZqUffLnvqkAml5f9DZvhegRI (125MB) ✔️
+- 2020-12-15 FISH0015 https://drive.google.com/drive/u/0/folders/1VCEsrkksZqUffLnvqkAml5f9DZvhegRI (100MB) ✔️
 - 2020-08-25 FISH0014 https://www.kaggle.com/ssfailearning/futurefish (351MB) ✔️
 - 2020-08-25 FISH0013 https://www.kaggle.com/jasmeetkaur/fishdataset (3.0GB) ✔️
 - 2020-08-25 FISH0012 https://www.kaggle.com/tomeryacov/fishfish (302MB) ✔️
@@ -77,3 +80,12 @@ Keywords to find these datasets: fish, trout
 - 2020-08-25 FISH0003 https://apps.aims.gov.au/metadata/view/38c829d4-6b6d-44a1-9476-f9b0955ce0b8 () ✔️
 - 2020-08-25 FISH0002 https://www.fishbase.de/photos/ThumbnailsSummary.php?Genus=Oncorhynchus&Species=mykiss (34MB) ✔️
 - 2020-08-25 FISH0001 https://github.com/cocodataset/cocoapi (API Connection) ✔️
+
+
+# Contributing
+
+There's a guide to help creating this dataset standardized and exported to a multiple standards. [Click here](./CONTRIBUTING.md)
+
+# License
+
+This repository is under [MIT LICENSE](.//LICENSE.md).
