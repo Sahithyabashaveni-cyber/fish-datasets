@@ -12,7 +12,7 @@ Datasets of fish for deep learning.
 
 - All datasets available on: https://bit.ly/34xV7al Link to Google Drive ✔️
 
-## Datasets Standardized
+## Datasets Exports Standardized
 
 Thanks to Roboflow, we can export for different formats: 
 
