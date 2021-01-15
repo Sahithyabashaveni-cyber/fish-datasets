@@ -1,6 +1,6 @@
 # Fish Datasets: Segmentations & labelling
 
-Datasets of fish for deep learning.
+Datasets of fish for deep learning. A standarized way to create a public dataset of fish (imaegs -> labelling -> dataset exports). If you want to add more images create an issue.
 
 ## Models trained by the datasets (weights and demo available)
 
