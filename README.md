@@ -22,12 +22,13 @@ Thanks to Roboflow, we can export for different formats:
 
 Choose just one zip file for one model, select the zip file accord to your model or download all the exports on [release section](https://github.com/DZPeru/fish-datasets/releases)
 
-| Date       | Images      | Classes | Download dataset & Code (TR70/VL20/TS10) |
-| ---------- | ----------- | ------- | ---------------------------------------- |
-| 2020-12-19 | 7500 (2500) | +1      | [FISH9004 - Coming soon ...](#)          |
-| 2020-12-15 | 2400 (1000) | 1       | [FISH9003](https://bit.ly/34BvYeM) ✔️     |
-| 2020-12-11 | 723 (301)   | 1       | [FISH9002](https://bit.ly/34BvYeM) ✔️     |
-| 2020-10-18 | 301 (301)   | 1       | [FISH9001](https://bit.ly/34BvYeM) ✔️     |
+| Date       | Images      | Classes | Download dataset & Code (TR70/VL20/TS10)           |
+| ---------- | ----------- | ------- | -------------------------------------------------- |
+| 2020-XX-XX | 7500 (2500) | +1      | [FISH9005 - Coming soon ...](#)                    |
+| 2021-02-15 | 2400 (1000) | 1       | [FISH9004 - less errors](https://bit.ly/34BvYeM) ✔️ |
+| 2020-12-15 | 2400 (1000) | 1       | [FISH9003](https://bit.ly/34BvYeM) ✔️               |
+| 2020-12-11 | 723 (301)   | 1       | [FISH9002](https://bit.ly/34BvYeM) ✔️               |
+| 2020-10-18 | 301 (301)   | 1       | [FISH9001](https://bit.ly/34BvYeM) ✔️               |
 
 * By now just segmented salmon. But the list to complete is [here](./classes/fish_classes-2017-11-07.txt).
 
