@@ -37,7 +37,7 @@ Choose just one zip file for one model, select the zip file accord to your model
 Example code to use only with Roboflow [notebooks](https://models.roboflow.com/object-detection) to use the repo and locate correctly.
 
 
-```
+```bash
 # Instead of doing:
 !curl -L "ROBOFLOW LINK" > roboflow.zip; unzip roboflow.zip; rm roboflow.zip
 # Use:
